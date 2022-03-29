@@ -1,0 +1,23 @@
+nav{
+    width: 45%
+}
+body{
+    background-color: beige;
+}
+@media (max-width: 760px) {
+    body{
+
+        background-color: green;
+    }
+}
+body{
+    margin: 20px;
+}
+.city-title{
+    padding-left: 80px;
+    font-weight: bold;
+}
+#page-title{
+    font-weight: bolder;
+    font-size: large;
+}
